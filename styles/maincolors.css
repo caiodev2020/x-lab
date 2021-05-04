@@ -202,6 +202,10 @@ ul.social-media li:hover i,
 	background-color: #e4a40f;
 }
 
+.gallery-thumb img {
+	border-color: #ffde1e69!important;
+}
+
 .bg-secondary .subtitle:after,
 .contact-icon .top-icon,
 .serviceBox2 .service-icon a,

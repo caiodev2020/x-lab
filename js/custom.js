@@ -64,7 +64,7 @@ jQuery(function($) {
 			};
 
 			//Ajax post data to server
-			$.post('../php/sendmail.php', post_data, function(response) {
+			$.post('php/sendmail.php', post_data, function(response) {
 				if (response.type === 'error') { //load json data from server and output message     
 					var output = '<br><div class="alert">' + response.text + '</div>';
 				} else {
