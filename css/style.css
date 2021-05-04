@@ -34,21 +34,6 @@ body {
 	overflow-x: hidden;
 }
 
-::-webkit-scrollbar-track {
-    background-color: #e9edf0;
-    border-left: 1px solid #ededed;
-}
-
-::-webkit-scrollbar {
-    width: 7px;
-    background-color: #e4a40f;
-}
-
-::-webkit-scrollbar-thumb {
-    background: #e4a40f;
-}
-
-
 p {
 	font-size: 17px;
 	line-height: 1.7;
