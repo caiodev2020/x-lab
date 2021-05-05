@@ -503,7 +503,7 @@ ul.social-list li.list-inline-item:not(:last-child) {
 /* header text wrapper */
 
 .header-text {
-	margin-left: 50%;
+	margin-left: 40%;
 	text-align: center;
 	width: 50%;
 }
@@ -3185,6 +3185,7 @@ ul.checkmark li:before {
 		padding: 0px 10px;
 	}
 	.btn {
+
 		padding: 10px 30px
 	}
 	.serviceBox1 .title a {
@@ -3691,7 +3692,7 @@ ul.checkmark li:before {
 	.header-text {
 		width: 50%!important;
 		position: absolute;
-		margin-left: 40%;
+		margin-left: 20%;
 	}
 	.header-text.full-width {
 		width: 100%!important;
