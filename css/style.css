@@ -3123,6 +3123,7 @@ ul.checkmark li:before {
 		width: 100%;
 		display: inline-block;
 	}
+
 		
 }
 
@@ -3304,9 +3305,7 @@ ul.checkmark li:before {
 	.owl-next {
 		right: -0px;
 	}
-	.hidden-small {
-		display: none;
-	}
+	
 	.accordion a:before {
 		width: 20px;
 		height: 20px;
@@ -3350,13 +3349,13 @@ ul.checkmark li:before {
 		font-size: 14px;
 	}
 	.header-p {
-		font-size: 18px;
-		line-height: 23px;
+		font-size: 12px;
+		line-height: 18px;
 		margin-bottom: 10px;
 	}
 	.header-text h1 {
 		margin-bottom: 20px;
-		font-size: 7em;
+		font-size: 5em;
 	}
 	.page {
 		padding-top: 40px;
