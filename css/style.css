@@ -353,7 +353,8 @@ a:focus {
 }
 
 .nav-brand img {
-	max-height: 60px;
+	max-height: 75px;
+	background-size: cover;
 }
 
 .navbar-brand i {
@@ -3672,8 +3673,9 @@ ul.checkmark li:before {
 		padding: 0px;
 	}
 	.nav-brand img {
-		max-height: 50px;
+		max-height: 70px;
 		padding: 5px;
+		background-size: cover;
 	}
 	.dropdown-item,
 	.navbar-nav .nav-link {
