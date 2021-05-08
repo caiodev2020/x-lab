@@ -2113,7 +2113,7 @@ blockquote p {
 }
 
 cite:before {
-	content: '― ';
+	content: 'â€• ';
 }
 
 cite {
@@ -3142,7 +3142,7 @@ ul.checkmark li:before {
 	}
 	/* slider */
 	.header-text span {
-		font-size: 22px;
+		font-size: 14px;
 	}
 	.header-text h1 {
 		margin-bottom: 0px!important;
@@ -3357,7 +3357,7 @@ ul.checkmark li:before {
 	}
 	.header-text h1 {
 		margin-bottom: 20px;
-		font-size: 5em;
+		font-size: 3em;
 	}
 	.page {
 		padding-top: 40px;
