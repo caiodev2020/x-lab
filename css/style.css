@@ -355,6 +355,7 @@ a:focus {
 .nav-brand img {
 	max-height: 75px;
 	background-size: cover;
+	backface-visibility: hidden
 }
 
 .navbar-brand i {
